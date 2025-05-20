@@ -8,6 +8,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📂 Featured Projects
+- ⚙️ [Cloud computing using python full stack and AWS](https://github.com/Devansh073/Summer-training-project)
 - 🌦️ [Weather App using REST API](https://github.com/Devansh073/Weather-app-Flutter)
 - 🛒 [E-commerce App](https://github.com/Devansh073/Nike_app)
 
