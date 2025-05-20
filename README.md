@@ -12,6 +12,5 @@
 - 🛒 [E-commerce App]([https://github.com/your-repo](https://github.com/Devansh073/Nike_app))
 
 ## 📫 Connect with Me
-💻 [GitHub](https://github.com/devanshpanchal2003)
-📧 [Email Me](mailto:devanshpanchal722003@gmail.com)
+📧 [Devansh Panchal](mailto:devanshpanchal722003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/devanshpanchal2003)
