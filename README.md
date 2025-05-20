@@ -9,7 +9,7 @@
 
 ## 📂 Featured Projects
 - 🌦️ [Weather App using REST API](https://github.com/Devansh073/Weather-app-Flutter)
-- 🛒 [E-commerce App]((https://github.com/Devansh073/Nike_app))
+- 🛒 [E-commerce App](https://github.com/Devansh073/Nike_app)
 
 ## 📫 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:devanshpanchal722003@gmail.com)
