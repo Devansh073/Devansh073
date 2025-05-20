@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devansh Panchal
 
-🎯 **Flutter Developer** | 💻 C++ & Python Enthusiast | ☁️ Learning AWS & DevOps
+I’m a passionate Flutter Developer 🚀 with a foundation in C++ 💻 and Python 🐍 programming. I enjoy building intuitive and efficient mobile applications 📱 that solve real-world problems. Currently, I’m expanding my skill set by diving into AWS ☁️ cloud technologies and DevOps ⚙️ practices to better understand scalable deployment and infrastructure automation. Always eager to learn new tools and frameworks 🔧, I strive to keep growing as a versatile software engineer ready to tackle challenges in both development and operations.
 
 ## 🔧 Technologies & Tools
 
